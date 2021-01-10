@@ -29,8 +29,8 @@ const minusOne = () => {
     renderCounterApp(); 
 };
 const reset = () => {
-  count = 0;
-  renderCounterApp(); 
+    count = 0;
+    renderCounterApp(); 
 };
 
 const appRoot = document.getElementById('app');
